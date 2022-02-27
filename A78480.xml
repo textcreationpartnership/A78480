@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The treatie for the surrendring of Exeter to Sr. Thomas Fairfax: by commissioners on both sides, who met at Poltimore House on Friday last, and how farre they proceeded therein, with other news from the Prince, and divers others of his lords and gentlemen, with the flouts and jeeres put upon them that went over to Saint Mallowes: and other passages of all the affaires at Barnstable, Pendennis and the Mount. These being true copies of letters examined, and printed according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78480</idno>
+            <idno type="STC">Wing C172</idno>
+            <idno type="STC">Thomason E332_2</idno>
+            <idno type="STC">ESTC R200738</idno>
+            <idno type="EEBO-CITATION">99861403</idno>
+            <idno type="PROQUEST">99861403</idno>
+            <idno type="VID">159639</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159639)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E332[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The treatie for the surrendring of Exeter to Sr. Thomas Fairfax: by commissioners on both sides, who met at Poltimore House on Friday last, and how farre they proceeded therein, with other news from the Prince, and divers others of his lords and gentlemen, with the flouts and jeeres put upon them that went over to Saint Mallowes: and other passages of all the affaires at Barnstable, Pendennis and the Mount. These being true copies of letters examined, and printed according to order of Parliament.</title>
+                  <author>W. C.</author>
+                  <author>N. T.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Matthew Walbancke at Grays-Inne-Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>April 9. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes two letters, signed W.C. and N.T. respectively, and The names of the commissioners appointed by Sir T. Fairfax.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+               <term>Exeter (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159639:1" rendition="simple:additions"/>
+            <p>THE Treatie for the Surrendring of EXETER TO Sr. <hi>THOMAS FAIRFAX.</hi>
+            </p>
+            <p>By Commiſsioners on both ſides, who met at <hi>Poltimore</hi> Houſe on <hi>Friday</hi> laſt, and how farre they proceeded therein, with other news from the PRINCE, and divers others of his Lords and Gentlemen with the Flouts and Jeeres put upon them that went over to Saint <hi>MALLOWES:</hi>
+            </p>
+            <p>And other paſſages of all the affaires at <hi>Barnstable, Pendennis</hi> and the Mount.</p>
+            <p>Theſe being true Copies of LETTERS Examined, and Printed according to Order of PARLIAMENT.</p>
+            <p>London printed for <hi>Matthew Walbancke</hi> at <hi>Grayſ-Inne</hi>-Gate, <hi>April</hi> 9. 1646.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:159639:2"/>
+            <pb facs="tcp:159639:2"/>
+            <head>The Treaty for the ſurrendring of <hi>EXETER</hi> to Sir <hi>Thomas Fairfax,</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Eſterday J acquainted you with the Generalls <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſing of <hi>Exeter,</hi> and viewing it round. I then ſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t you incloſed the Summons, Sir <hi>Iohn Berkleys</hi> Anſwer, and his Excellencyes Reply, how far both parties had proceeded in order to a Treaty, and the names of the Commiſſioners on both ſides. This day the Commiſsioners on both ſides mette at <hi>Poultemore,</hi> at Sir <hi>Iohn Bampfields</hi> houſe; I have incloſed ſome papers which <hi>I</hi> deſire may not at all be made publike, at leaſt not till the bu<g ref="char:EOLhyphen"/>ſineſſe be finiſhed, yesterday we had Intelligence by a ſhip that came from France to <hi>Dartmouth,</hi> that Sir <hi>Richard Greenvill,</hi> the Lord <hi>Culpepper,</hi> Col. <hi>Monke,</hi> Col. <hi>Fenwich,</hi> Sir <hi>Iohn Munkley,</hi> and other Commanders landed the <hi>26</hi> of <hi>March</hi> at Saint <hi>Mallowes</hi> in <hi>France,</hi> they paſſed thither in the ſhip called the <hi>George, Thomas May,</hi> and <hi>Richard Tealſe</hi> Commander and Major. At their comming into <hi>France</hi> they were hooted at, and jeered by many of the people, with that they were aſhamed to goe forth of doores, and glad to take up an obſcure houſe in the Country for their reſidence. The Prince <hi>Hide, Goring,</hi> (for ought I can heare) remaine in <hi>Silly,</hi> and the Lord <hi>Hopton</hi> in the Mount. The blocking up of thoſe places. (<hi>Pendennis</hi> and the <hi>Mount</hi>) are exceedingly mannaged by the vigelancy of Col. <hi>Hamon.</hi> The Ge<g ref="char:EOLhyphen"/>nerall hath given Orders for the disbanding of Col. <hi>Fowels</hi> Regiment, and aſſigned the Souldiers under him to Colonel <hi>Rouſe,</hi> Governour
+<pb n="4" facs="tcp:159639:3"/>of <hi>D.</hi> for the strengthening of his Regiment for further ſervice, which although it was not well digeſted at firſt, yet upon the Generalls letter of the occaſion thereof, and teſtimoniall of the fidelity and deſarts of Col. <hi>Fowell,</hi> and his Officers, many of the Souldiers are willing to got under <hi>Colonell Rouſe,</hi> The occaſion of their reducement being in regard that the Country is it no ſort able to beare the charge of ſo many Souldiers conſidering how thoſe parts have bin impoveriſhed. The Ge<g ref="char:EOLhyphen"/>nerall ſent likewiſe to the <hi>Devon.</hi> Committee reſiding at <hi>Torn<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> to ex<g ref="char:EOLhyphen"/>pect that work that ſo C. <hi>Rouſe</hi> his Regiment might aſſiſt before <hi>Pen<g ref="char:EOLhyphen"/>dennis,</hi> and Col. <hi>Hammond</hi> is thereupon to come to <hi>Barnſtable;</hi> that ſo Col. <hi>Cooks</hi> Horſe, Colonel <hi>Fety-Jamſes</hi> and other Regiments may move Eaſtward, after <hi>Commiſſary</hi> Generall <hi>Ireton,</hi> who with thoſe forces with him as I certified you in my laſt) and to aſſiſt about <hi>Ox<g ref="char:EOLhyphen"/>ford.</hi> The recruits for the Foot come downe a paſe, and are diſpoſed for the compleating of divers Regiments, ſo that we ſhall march Eaſt<g ref="char:EOLhyphen"/>ward with a full and gallant Army, fit to be imployed upon any ſer<g ref="char:EOLhyphen"/>vice; I can (as yet give) you no further accompt of the buſineſſe of the Treaty then this, That upon the meeting this day at <hi>Poltemore,</hi> nothing was fully concluded of, &amp; a great part of the debate was about circumſtantialls. The Enemy inſiſted much upon the execution of the Clergie, what they moved in a reaſonable way, and which came neereſt to our Commiſſioners inſtructions was received, thoſe demands which were too high reſerted. The inſtructions of Sir <hi>Iohn Berkleys</hi> Com<g ref="char:EOLhyphen"/>miſſioners being ſomething in ſufficient, they promiſed to returne with an ample and ſufficient additions and I doubt not but to morrowes de<g ref="char:EOLhyphen"/>bate will conduct to the neere finiſhing of this great worke, ſo much tending to the good of theſe parts, and of ſo great concernment to the Kingdome, of the further proceeding and reſult whereof you ſhall (by Gods bleſſing) have as <hi>I</hi> ſhall find opportunity, from</p>
+            <closer>
+               <dateline>
+                  <hi>Colump. Iohn Houſe</hi> 
+                  <date>April, <hi>3. 1646.</hi>
+                  </date>
+               </dateline>
+               <signed>Your moſt humble Servant, <hi>W. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="5" facs="tcp:159639:3"/>
+            <opener>
+               <salute>SJR,</salute>
+            </opener>
+            <p>THis day the Commiſſioners from <hi>Exeter,</hi> and our Commiſſio<g ref="char:EOLhyphen"/>ners met at <hi>Poltemore</hi> houſe, at their meeting they had faire quarter on both ſides, and were very civill each to other, they met in a very convenient roome in that houſe, ours had very <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull and exact Inſtructions, and were deſirous to make ſhort worke of it, but thoſe from the Enemy were not ſo, they brought out from <hi>Exeter</hi> to our Commiſſioners, A Copy of the Articles very high, in which there was very much for the Clergie, and particularly for the Biſhop, Deanes, Prebends, and the reſt of the Cathedrall men, the diſpute about which tooke up much time this day, and there is alſo much pleaded for in thoſe Articles in the behalfe ef ſuch as have adheered to the King to levell the Parliaments proceedings againſt, which is no wonder at all, for there r<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in <hi>Exeter</hi> many no<g ref="char:EOLhyphen"/>table ſticklers that have acted much for the King [and there are in<g ref="char:EOLhyphen"/>deed, many precious men that are there who have ſuffered much by them) but the Malignants there may buſſell, we hope they can<g ref="char:EOLhyphen"/>not hinder the agreement of the Commiſſioners for the ſurrender of <hi>Exeter</hi> to the Generall, to the Obedience of the Parliament. The E. of <hi>Briſtoll</hi> and others who are there, that with the Clergie labour to obſtruct this great work, but will we hope be over pow<g ref="char:EOLhyphen"/>red by thoſe who will bee not ſo far flattered by them as to undoe themſelves to pleaſe a few; There are many Gentry, and much wealth in the City, which I believe they will be loath to venture the plunder of, but for the Inhabitants we are aſſured that they are weary of the league<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and deſire generally to be free, our Commiſ<g ref="char:EOLhyphen"/>ſioners deſired that much time might not be ſpent in circumſtan<g ref="char:EOLhyphen"/>ces, but that they would come to the buſineſſe of ſurrender, and to debate of what was moſt materiall, declaring to them that what might ſtand with the Ordinances of Parliament, and the good and ſafety of the Kingdome, they would aſſent to preſerve that City and prevent the effuſion of bloud which otherwiſe might follow, They proceeded ſo farre that the Commiſſioners from Sir <hi>Iohn
+<pb n="6" facs="tcp:159639:4"/>Berkley,</hi> conſidering that we were reſolved againſt delayes, and that their inſtructions were in ſome things imperfect whereby they were ſo bound and that they could not give that ſatisfaction which was expected, and which they broke off the further Treaty for this day, they prove ſad <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Commiſſioners that they would returne with ſuch Inſtructions whereby they would be inabled to ſatisfie our expectation one way or other, we apprehend no great reaſon to feare any obſtructions to hinder the perfecting of this great worke by Sunday. I doubt not but to be able to give you a faire account of their progreſſe. <hi>Pendennis</hi> is ſtill ſtubborne, and <hi>Michaels Mount</hi> houlds out, the Prince is ſtill in the Iſſe of <hi>Sylly</hi> but divers others of his great followers are gone for <hi>France,</hi> the Prince did not paſſe over with them, and we heare not that he went ſince, though I beleive it is ſo.</p>
+            <p>The Gentlemen of theſe parts proceed well in the putting theſe Countries into a good poſture, we hope the Militia will bee well ſetled in ſhort time, <hi>Barnſtable</hi> I beleive will fall with <hi>Exce<g ref="char:EOLhyphen"/>ter,</hi> and then we all returne. The Generall is reſolved if they will not ſurrender to make a ſhort work of it, but the former is hoped, and moſt deſired, and before this come to your hands I beleive it will be ours. If <hi>Briſtol,</hi> and the reſt be caught in the Net, I hope it will be accounted a good peece of ſervice, but wee impute not the great things that God hath done, by us to the Arme of Fleſh, but deſire that praiſe may be given to God that hath made us Inſtru<g ref="char:EOLhyphen"/>ments to do our Country good, which is the thing deſired by</p>
+            <closer>
+               <signed>Your humble Servant N. T.</signed>
+               <dateline>
+                  <hi>Colomb. Iohn</hi> 
+                  <date>
+                     <hi>April</hi> 3 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_commissioners">
+            <pb n="7" facs="tcp:159639:4"/>
+            <list>
+               <head>The names of the Commiſsioners ap<g ref="char:EOLhyphen"/>pointed by Sir <hi>T. Fairfax.</hi>
+               </head>
+               <item>Leiute. Generall <hi>Hammond</hi>
+               </item>
+               <item>Col. Sir <hi>Fardreſſe Vallers.</hi>
+               </item>
+               <item>Colonell <hi>Lambert.</hi>
+               </item>
+               <item>Colonell <hi>Harley.</hi>
+               </item>
+               <item>Colonell <hi>Fry.</hi>
+               </item>
+               <item>
+                  <hi>Commiſſary Stane.</hi>
+               </item>
+            </list>
+            <list>
+               <head>The Names of the Commiſsioners ap<g ref="char:EOLhyphen"/>pointed by Sr <hi>Io. Berkley.</hi>
+               </head>
+               <item>
+                  <hi>Sir</hi> Hen. Berkley.</item>
+               <item>
+                  <hi>Mr.</hi> VVill. Aſhburnham.</item>
+               <item>
+                  <hi>Sir.</hi> George Cary.</item>
+               <item>
+                  <hi>Mr.</hi> Iohn Were.</item>
+               <item>
+                  <hi>Col.</hi> Godalphin.</item>
+               <item>
+                  <hi>Cap.</hi> Fitz-Garret.</item>
+               <item>
+                  <hi>Mr.</hi> Robert VValker.</item>
+               <item>
+                  <hi>Mr.</hi> Thoma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Knight.</item>
+               <item>
+                  <hi>Mr.</hi> Tho. Kendall.</item>
+               <item>
+                  <hi>Mr.</hi> Tho. Forde.</item>
+            </list>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
